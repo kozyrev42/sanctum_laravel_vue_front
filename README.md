@@ -29,3 +29,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 npm install vue-router@4
 
 + добавил два тестовых роута
+
+3. Установка Bootstrap, Jquery, Popper.js
+   npm install bootstrap
+   npm install jquery
+   npm install popper.js
