@@ -34,3 +34,6 @@ npm install vue-router@4
    npm install bootstrap
    npm install jquery
    npm install popper.js
+
+4. Подключил axios через api.js, глобально, плюс .env, тестовый запрос
+npm install axios
