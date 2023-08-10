@@ -24,3 +24,8 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 1. Установка Вью нужной версии: "vue create sanctum_laravel_vue_front && cd sanctum_laravel_vue_front && npm install vue@3.2.13"
+
+2. Установка Vue Router
+npm install vue-router@4
+
++ добавил два тестовых роута
